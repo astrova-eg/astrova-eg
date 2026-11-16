@@ -1,68 +1,54 @@
 <!-- ===================================================================== -->
-<!-- ASTROVA — OFFICIAL GITHUB PROFILE README (ULTIMATE 3D & CYBER UI)     -->
+<!-- ASTROVA — OFFICIAL GITHUB PROFILE README                              -->
+<!-- BRAND PALETTE: #090B1A | #0F172A | #312E81 | #4F46E5 | #0891B2 | #06B6D4 -->
 <!-- ===================================================================== -->
 
 <a id="top"></a>
 
-<!-- ===================================================================== -->
-<!-- HERO COMMAND CENTER                                                   -->
-<!-- ===================================================================== -->
 <div align="center">
 
-  <!-- 3D Waving Cyber Banner with Twinkling Stars & Neon Stroke -->
+  <!-- HERO BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:090B1A,25:1E1B4B,55:312E81,80:4F46E5,100:06B6D4&height=320&section=header&text=ASTROVA&fontSize=90&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20%7C%20AI%20%7C%20DIGITAL%20INNOVATION&descAlignY=56&descSize=20&animation=twinkling&stroke=06B6D4&strokeWidth=2"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:090B1A,35:312E81,70:4F46E5,100:06B6D4&height=290&section=header&text=ASTROVA&fontSize=82&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20%7C%20AI%20%7C%20DIGITAL%20INNOVATION&descAlignY=56&descSize=18&animation=fadeIn"
     width="100%"
     alt="Astrova Header"
   />
 
-  <!-- Live System Status HUD -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_•_ACTIVE-06B6D4?style=flat-square&logo=statuspage&logoColor=06B6D4&labelColor=090B1A" alt="Status"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/ARCHITECTURE-ENTERPRISE_GRADE-4F46E5?style=flat-square&logo=serverless&logoColor=818CF8&labelColor=090B1A" alt="Architecture"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/REGION-EGYPT_•_GLOBAL-312E81?style=flat-square&logo=cloudflare&logoColor=38BDF8&labelColor=090B1A" alt="Region"/>
-  </p>
-
-  <!-- Animated Multi-Line Cyber Typing SVG -->
+  <!-- ANIMATED TYPING TAGLINE -->
   <a href="https://astrova.online/">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=880&height=80&lines=WE+ENGINEER+DIGITAL+POSSIBILITIES.;TRANSFORMING+IDEAS+INTO+POWERFUL+DIGITAL+EXPERIENCES." alt="Astrova Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&height=45&lines=We+Engineer+Digital+Possibilities.;Transforming+Ideas+Into+Powerful+Digital+Experiences.;BUILDING+TECHNOLOGY.+CREATING+VALUE.+ENABLING+GROWTH." alt="Astrova Tagline" />
   </a>
 
-  <!-- Hero Master Card -->
-  <table width="100%">
+  <!-- HERO MAIN CARD -->
+  <table>
     <tr>
-      <td align="center">
+      <td align="center" width="1000">
         <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket 3D" width="80" height="80" />
-        <h1>We Engineer Digital Possibilities.</h1>
-        <h3>
-          ⚡ <em>Transforming Ideas Into Powerful Digital Experiences.</em> ⚡
-        </h3>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="72" height="72" alt="Rocket" />
+        <br/><br/>
+        <h1><b>We Engineer Digital Possibilities.</b></h1>
+        <h3><b>Transforming Ideas Into Powerful Digital Experiences.</b></h3>
         <p align="center">
           We design, engineer, and deliver digital solutions<br/>
           that help businesses innovate, operate, and grow.
         </p>
         <br/>
-        <!-- High-Impact 3D CTA Buttons -->
         <p align="center">
           <a href="https://astrova.online/">
-            <img src="https://img.shields.io/badge/🚀_EXPLORE_ASTROVA-Visit_Our_Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090B1A" height="48" alt="Explore Astrova"/>
+            <img src="https://img.shields.io/badge/EXPLORE_ASTROVA-Visit_Our_Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090B1A" height="44" alt="Explore Astrova"/>
           </a>
           &nbsp;&nbsp;&nbsp;
           <a href="mailto:support@astrova.online">
-            <img src="https://img.shields.io/badge/💬_CONTACT-Get_In_Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090B1A" height="48" alt="Contact Astrova"/>
+            <img src="https://img.shields.io/badge/CONTACT-Get_In_Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090B1A" height="44" alt="Contact Astrova"/>
           </a>
         </p>
         <br/>
-        <!-- Core Domain Pillars -->
         <p align="center">
-          <img src="https://img.shields.io/badge/◈_Software_Engineering-0F172A?style=for-the-badge&logo=code&logoColor=06B6D4&labelColor=1E1B4B" alt="Software Engineering"/>
+          <img src="https://img.shields.io/badge/Software_Engineering-0F172A?style=for-the-badge&logo=code&logoColor=06B6D4&labelColor=312E81" height="32" alt="Software Engineering"/>
           &nbsp;
-          <img src="https://img.shields.io/badge/◈_Digital_Innovation-0F172A?style=for-the-badge&logo=lightbulb&logoColor=818CF8&labelColor=1E1B4B" alt="Digital Innovation"/>
+          <img src="https://img.shields.io/badge/Digital_Innovation-0F172A?style=for-the-badge&logo=lightbulb&logoColor=FFFFFF&labelColor=4F46E5" height="32" alt="Digital Innovation"/>
           &nbsp;
-          <img src="https://img.shields.io/badge/◈_Business_Technology-0F172A?style=for-the-badge&logo=databricks&logoColor=38BDF8&labelColor=1E1B4B" alt="Business Technology"/>
+          <img src="https://img.shields.io/badge/Business_Technology-0F172A?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=0891B2" height="32" alt="Business Technology"/>
         </p>
         <br/>
       </td>
@@ -71,48 +57,44 @@
 
 </div>
 
-<!-- Animated Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090B1A,35:312E81,70:4F46E5,100:06B6D4&height=3" width="100%" alt="Line"/>
 
 <!-- ===================================================================== -->
-<!-- INTERACTIVE HUD NAVIGATION BAR                                        -->
+<!-- NAVIGATION BAR                                                        -->
 <!-- ===================================================================== -->
 <div align="center">
 
   <br/>
-  <kbd><b>&nbsp;⚡ BUILDING TECHNOLOGY. CREATING VALUE. ENABLING GROWTH. ⚡&nbsp;</b></kbd>
-  <br/><br/>
+  <p><b>BUILDING TECHNOLOGY. CREATING VALUE. ENABLING GROWTH.</b></p>
 
-  <!-- Quick-Jump HUD Buttons + Preserved Original Links -->
   <p align="center">
-    <a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-312E81?style=for-the-badge&labelColor=090B1A" height="35" alt="About"/></a>
+    <a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-312E81?style=for-the-badge&labelColor=090B1A" height="34" alt="About"/></a>
     &nbsp;
-    <a href="#what-we-do"><img src="https://img.shields.io/badge/02-SERVICES-4338CA?style=for-the-badge&labelColor=090B1A" height="35" alt="Services"/></a>
+    <a href="#what-we-do"><img src="https://img.shields.io/badge/02-SERVICES-4F46E5?style=for-the-badge&labelColor=090B1A" height="34" alt="Services"/></a>
     &nbsp;
-    <a href="#our-approach"><img src="https://img.shields.io/badge/04-OUR_APPROACH-4F46E5?style=for-the-badge&labelColor=090B1A" height="35" alt="Approach"/></a>
+    <a href="#our-approach"><img src="https://img.shields.io/badge/04-OUR_APPROACH-0891B2?style=for-the-badge&labelColor=090B1A" height="34" alt="Our Approach"/></a>
     &nbsp;
-    <a href="#technology"><img src="https://img.shields.io/badge/06-TECHNOLOGY-0891B2?style=for-the-badge&labelColor=090B1A" height="35" alt="Technology"/></a>
+    <a href="#technology"><img src="https://img.shields.io/badge/06-TECHNOLOGY-06B6D4?style=for-the-badge&labelColor=090B1A" height="34" alt="Technology"/></a>
     &nbsp;
-    <a href="#contact"><img src="https://img.shields.io/badge/08-CONTACT-06B6D4?style=for-the-badge&labelColor=090B1A" height="35" alt="Contact"/></a>
+    <a href="#contact"><img src="https://img.shields.io/badge/08-CONTACT-4F46E5?style=for-the-badge&labelColor=090B1A" height="34" alt="Contact"/></a>
   </p>
 
   <sub>
-    <a href="#about"><b>ABOUT</b></a>
+    <a href="#about">ABOUT</a>
     &nbsp; • &nbsp;
-    <a href="#what-we-do"><b>SERVICES</b></a>
+    <a href="#what-we-do">SERVICES</a>
     &nbsp; • &nbsp;
-    <a href="#our-approach"><b>OUR APPROACH</b></a>
+    <a href="#our-approach">OUR APPROACH</a>
     &nbsp; • &nbsp;
-    <a href="#technology"><b>TECHNOLOGY</b></a>
+    <a href="#technology">TECHNOLOGY</a>
     &nbsp; • &nbsp;
-    <a href="#contact"><b>CONTACT</b></a>
+    <a href="#contact">CONTACT</a>
   </sub>
-
   <br/><br/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,35:4F46E5,70:312E81,100:090B1A&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -121,22 +103,22 @@
 <a id="about"></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,50:312E81,100:090B1A&height=70&section=header&text=01%20%E2%80%94%20WHO%20WE%20ARE&fontSize=25&fontColor=06B6D4&animation=fadeIn&stroke=4F46E5&strokeWidth=1" width="100%" alt="01 Who We Are"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,35:312E81,70:4F46E5,100:090B1A&height=65&section=header&text=01%20%E2%80%94%20WHO%20WE%20ARE&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="01 — WHO WE ARE"/>
 </div>
 
-## 01 — WHO WE ARE
-
-<div align="center">
-
-  <h2>ASTROVA</h2>
-
-  <h3>Software Development & Digital Solutions Company</h3>
-
-</div>
-
-<table width="100%">
+<table>
   <tr>
-    <td width="60%" valign="middle">
+    <td width="1000" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/ASTROVA-Software_Development_%26_Digital_Solutions_Company-4F46E5?style=for-the-badge&labelColor=090B1A" height="36" alt="Astrova"/>
+      <h3><b>ASTROVA — Software Development & Digital Solutions Company</b></h3>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="620" valign="middle">
       <p>
         <b>Astrova</b> is a software development and digital solutions company focused on helping businesses turn ideas into meaningful digital products and experiences.
       </p>
@@ -150,51 +132,48 @@
         We aim to create reliable digital foundations, improve business processes, strengthen online presence, and help organizations move forward through technology.
       </p>
     </td>
-    <td width="40%" valign="middle">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="85" height="85" alt="3D Workstation" />
-      </div>
-      <pre><code>&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;
-&#9474; ASTROVA CORE ARCHITECTURE           &#9474;
-&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
-&#9474; &#9658; Reliable Digital Foundations      &#9474;
-&#9474; &#9658; Business Process Optimization     &#9474;
-&#9474; &#9658; Stronger Online Brand Presence    &#9474;
-&#9474; &#9658; Sustainable Tech Innovation       &#9474;
-&#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;</code></pre>
+    <td width="380" valign="middle" align="center">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="76" height="76" alt="Computer 3D" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Reliable-Digital_Foundations-312E81?style=flat-square&labelColor=090B1A" width="240" alt="Pillar 1"/><br/>
+      <img src="https://img.shields.io/badge/Business-Process_Optimization-4F46E5?style=flat-square&labelColor=090B1A" width="240" alt="Pillar 2"/><br/>
+      <img src="https://img.shields.io/badge/Stronger-Online_Presence-0891B2?style=flat-square&labelColor=090B1A" width="240" alt="Pillar 3"/><br/>
+      <img src="https://img.shields.io/badge/Forward-Through_Technology-06B6D4?style=flat-square&labelColor=090B1A" width="240" alt="Pillar 4"/>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="500" valign="top" align="center">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="64" height="64" alt="Our Vision 3D" />
-      <br/>
-      <img src="https://img.shields.io/badge/FUTURE_OUTLOOK-OUR_VISION-4F46E5?style=flat-square&labelColor=090B1A" alt="Vision Badge"/>
-
-### Our Vision
-
-To become a trusted technology partner for businesses seeking smarter digital solutions, sustainable growth, and meaningful innovation.
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="60" height="60" alt="Our Vision" />
       <br/><br/>
+      <img src="https://img.shields.io/badge/FUTURE_OUTLOOK-OUR_VISION-4F46E5?style=flat-square&labelColor=090B1A" alt="Our Vision"/>
+      <h3><b>Our Vision</b></h3>
+      <p align="center">
+        To become a trusted technology partner for businesses seeking smarter digital solutions, sustainable growth, and meaningful innovation.
+      </p>
+      <br/>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="500" valign="top" align="center">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="64" height="64" alt="Our Mission 3D" />
-      <br/>
-      <img src="https://img.shields.io/badge/CORE_PURPOSE-OUR_MISSION-06B6D4?style=flat-square&labelColor=090B1A" alt="Mission Badge"/>
-
-### Our Mission
-
-To deliver practical, well-engineered, and thoughtfully designed digital solutions that create measurable value for the businesses we work with.
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="60" height="60" alt="Our Mission" />
       <br/><br/>
+      <img src="https://img.shields.io/badge/CORE_PURPOSE-OUR_MISSION-0891B2?style=flat-square&labelColor=090B1A" alt="Our Mission"/>
+      <h3><b>Our Mission</b></h3>
+      <p align="center">
+        To deliver practical, well-engineered, and thoughtfully designed digital solutions that create measurable value for the businesses we work with.
+      </p>
+      <br/>
     </td>
   </tr>
 </table>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090B1A,35:312E81,70:4F46E5,100:06B6D4&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -203,104 +182,98 @@ To deliver practical, well-engineered, and thoughtfully designed digital solutio
 <a id="what-we-do"></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,50:4F46E5,100:090B1A&height=70&section=header&text=02%20%E2%80%94%20WHAT%20WE%20DO&fontSize=25&fontColor=FFFFFF&animation=fadeIn&stroke=06B6D4&strokeWidth=1" width="100%" alt="02 What We Do"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,35:4F46E5,70:0891B2,100:090B1A&height=65&section=header&text=02%20%E2%80%94%20WHAT%20WE%20DO&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="02 — WHAT WE DO"/>
 </div>
-
-## 02 — WHAT WE DO
 
 <p align="center">
   <b>We bring together multiple digital disciplines to support businesses throughout their digital journey.</b>
 </p>
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <div align="center">
         <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="68" height="68" alt="Web Dev 3D" />
-        <br/>
-        <img src="https://img.shields.io/badge/PILLAR_01-WEB_ARCHITECTURE-4F46E5?style=for-the-badge&labelColor=090B1A" alt="Pillar 01"/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60" height="60" alt="Web Design" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/01-WEB_ARCHITECTURE-4F46E5?style=flat-square&labelColor=090B1A" alt="Web Architecture"/>
+        <h3><b>◈ Web Design & Development</b></h3>
+        <p><i>Creating modern, responsive, and user-focused digital experiences.</i></p>
       </div>
-
-### ◈ Web Design & Development
-
-Creating modern, responsive, and user-focused digital experiences.
-
-- ⚡ Website design and development
-- ⚡ Custom web platforms
-- ⚡ WordPress solutions
-- ⚡ Business websites
-- ⚡ Frontend and backend development
-- ⚡ Website optimization
-
+      <ul>
+        <li>Website design and development</li>
+        <li>Custom web platforms</li>
+        <li>WordPress solutions</li>
+        <li>Business websites</li>
+        <li>Frontend and backend development</li>
+        <li>Website optimization</li>
+      </ul>
+      <br/>
     </td>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <div align="center">
         <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="68" height="68" alt="Digital Marketing 3D" />
-        <br/>
-        <img src="https://img.shields.io/badge/PILLAR_02-GROWTH_%26_BRANDING-06B6D4?style=for-the-badge&labelColor=090B1A" alt="Pillar 02"/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60" height="60" alt="Digital Marketing" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/02-DIGITAL_GROWTH-0891B2?style=flat-square&labelColor=090B1A" alt="Digital Growth"/>
+        <h3><b>◈ Digital Marketing & Growth</b></h3>
+        <p><i>Helping businesses strengthen their digital presence and reach the right audience.</i></p>
       </div>
-
-### ◈ Digital Marketing & Growth
-
-Helping businesses strengthen their digital presence and reach the right audience.
-
-- 🔥 Digital marketing strategies
-- 🔥 Social media management
-- 🔥 Paid advertising campaigns
-- 🔥 Search engine optimization
-- 🔥 Online brand presence
-- 🔥 Digital growth planning
-
+      <ul>
+        <li>Digital marketing strategies</li>
+        <li>Social media management</li>
+        <li>Paid advertising campaigns</li>
+        <li>Search engine optimization</li>
+        <li>Online brand presence</li>
+        <li>Digital growth planning</li>
+      </ul>
+      <br/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <div align="center">
         <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="68" height="68" alt="Business Tech 3D" />
-        <br/>
-        <img src="https://img.shields.io/badge/PILLAR_03-ENTERPRISE_SYSTEMS-312E81?style=for-the-badge&labelColor=090B1A" alt="Pillar 03"/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60" height="60" alt="Business Technology" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/03-BUSINESS_SYSTEMS-312E81?style=flat-square&labelColor=090B1A" alt="Business Systems"/>
+        <h3><b>◈ Business Technology</b></h3>
+        <p><i>Using technology to improve business operations and digital capabilities.</i></p>
       </div>
-
-### ◈ Business Technology
-
-Using technology to improve business operations and digital capabilities.
-
-- 💠 Business technology solutions
-- 💠 Digital transformation support
-- 💠 Workflow improvement
-- 💠 Custom digital tools
-- 💠 Platform integration
-- 💠 Technology consulting
-
+      <ul>
+        <li>Business technology solutions</li>
+        <li>Digital transformation support</li>
+        <li>Workflow improvement</li>
+        <li>Custom digital tools</li>
+        <li>Platform integration</li>
+        <li>Technology consulting</li>
+      </ul>
+      <br/>
     </td>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <div align="center">
         <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="68" height="68" alt="Research 3D" />
-        <br/>
-        <img src="https://img.shields.io/badge/PILLAR_04-R%26D_%26_OPTIMIZATION-0891B2?style=for-the-badge&labelColor=090B1A" alt="Pillar 04"/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="60" height="60" alt="Research" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/04-R%26D_%26_OPTIMIZATION-06B6D4?style=flat-square&labelColor=090B1A" alt="R&D"/>
+        <h3><b>◈ Research & Optimization</b></h3>
+        <p><i>Making better technology and business decisions through research and analysis.</i></p>
       </div>
-
-### ◈ Research & Optimization
-
-Making better technology and business decisions through research and analysis.
-
-- 🚀 Technical research
-- 🚀 Business analysis
-- 🚀 Performance optimization
-- 🚀 Solution evaluation
-- 🚀 Digital strategy improvement
-- 🚀 Continuous development
-
+      <ul>
+        <li>Technical research</li>
+        <li>Business analysis</li>
+        <li>Performance optimization</li>
+        <li>Solution evaluation</li>
+        <li>Digital strategy improvement</li>
+        <li>Continuous development</li>
+      </ul>
+      <br/>
     </td>
   </tr>
 </table>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,35:4F46E5,70:312E81,100:090B1A&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -308,25 +281,74 @@ Making better technology and business decisions through research and analysis.
 <!-- ===================================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,50:312E81,100:090B1A&height=70&section=header&text=03%20%E2%80%94%20WHAT%20MAKES%20OUR%20APPROACH%20DIFFERENT&fontSize=22&fontColor=06B6D4&animation=fadeIn&stroke=4F46E5&strokeWidth=1" width="100%" alt="03 Approach"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,35:312E81,70:4F46E5,100:090B1A&height=65&section=header&text=03%20%E2%80%94%20WHAT%20MAKES%20OUR%20APPROACH%20DIFFERENT&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="03 — WHAT MAKES OUR APPROACH DIFFERENT"/>
 </div>
 
-## 03 — WHAT MAKES OUR APPROACH DIFFERENT
-
-<div align="center">
-
-| 3D ICON | PRINCIPLE | OUR COMMITMENT |
-|:---:|:---:|---|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="44" height="44" alt="Engineering"/> | <img src="https://img.shields.io/badge/01-Engineering_First-312E81?style=for-the-badge&labelColor=090B1A"/><br/>**Engineering First** | We prioritize sound technical foundations and maintainable solutions. |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="44" height="44" alt="Business"/> | <img src="https://img.shields.io/badge/02-Business_Focus-4338CA?style=for-the-badge&labelColor=090B1A"/><br/>**Business Focus** | Technology should solve real problems and support business objectives. |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="44" height="44" alt="Quality"/> | <img src="https://img.shields.io/badge/03-Quality_Driven-4F46E5?style=for-the-badge&labelColor=090B1A"/><br/>**Quality Driven** | We value reliability, usability, performance, and attention to detail. |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Infinity.png" width="44" height="44" alt="Continuous"/> | <img src="https://img.shields.io/badge/04-Continuous_Improvement-0891B2?style=for-the-badge&labelColor=090B1A"/><br/>**Continuous Improvement** | We believe every solution can evolve and become better. |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="44" height="44" alt="Innovation"/> | <img src="https://img.shields.io/badge/05-Practical_Innovation-06B6D4?style=for-the-badge&labelColor=090B1A"/><br/>**Practical Innovation** | We focus on useful innovation rather than technology for its own sake. |
-
-</div>
+<table>
+  <tr>
+    <th width="90" align="center">ICON</th>
+    <th width="280" align="center">PRINCIPLE</th>
+    <th width="630" align="left">OUR COMMITMENT</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="42" height="42" alt="Engineering First"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/01-Engineering_First-312E81?style=for-the-badge&labelColor=090B1A" alt="Engineering First"/>
+    </td>
+    <td valign="middle">
+      <b>Engineering First</b> — We prioritize sound technical foundations and maintainable solutions.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="42" height="42" alt="Business Focus"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/02-Business_Focus-4F46E5?style=for-the-badge&labelColor=090B1A" alt="Business Focus"/>
+    </td>
+    <td valign="middle">
+      <b>Business Focus</b> — Technology should solve real problems and support business objectives.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="42" height="42" alt="Quality Driven"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/03-Quality_Driven-4F46E5?style=for-the-badge&labelColor=090B1A" alt="Quality Driven"/>
+    </td>
+    <td valign="middle">
+      <b>Quality Driven</b> — We value reliability, usability, performance, and attention to detail.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Infinity.png" width="42" height="42" alt="Continuous Improvement"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/04-Continuous_Improvement-0891B2?style=for-the-badge&labelColor=090B1A" alt="Continuous Improvement"/>
+    </td>
+    <td valign="middle">
+      <b>Continuous Improvement</b> — We believe every solution can evolve and become better.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="42" height="42" alt="Practical Innovation"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/05-Practical_Innovation-06B6D4?style=for-the-badge&labelColor=090B1A" alt="Practical Innovation"/>
+    </td>
+    <td valign="middle">
+      <b>Practical Innovation</b> — We focus on useful innovation rather than technology for its own sake.
+    </td>
+  </tr>
+</table>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090B1A,35:312E81,70:4F46E5,100:06B6D4&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -335,62 +357,56 @@ Making better technology and business decisions through research and analysis.
 <a id="our-approach"></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,50:4F46E5,100:090B1A&height=70&section=header&text=04%20%E2%80%94%20HOW%20WE%20WORK&fontSize=25&fontColor=FFFFFF&animation=fadeIn&stroke=06B6D4&strokeWidth=1" width="100%" alt="04 How We Work"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,35:4F46E5,70:0891B2,100:090B1A&height=65&section=header&text=04%20%E2%80%94%20HOW%20WE%20WORK&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="04 — HOW WE WORK"/>
 </div>
-
-## 04 — HOW WE WORK
 
 <p align="center">
   <b>We follow a structured approach to transform ideas into dependable digital solutions.</b>
 </p>
 
-<table width="100%">
+<table>
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="250" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="58" height="58" alt="Discover 3D" />
-      <h1>01</h1>
-      <img src="https://img.shields.io/badge/STEP_01-DISCOVER-312E81?style=for-the-badge&labelColor=090B1A" alt="Step 01"/>
-      <h3>DISCOVER</h3>
-      <hr width="60%"/>
-      <p>Understand the business, objectives, challenges, and requirements.</p>
-      <br/>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="58" height="58" alt="Strategize 3D" />
-      <h1>02</h1>
-      <img src="https://img.shields.io/badge/STEP_02-STRATEGIZE-4F46E5?style=for-the-badge&labelColor=090B1A" alt="Step 02"/>
-      <h3>STRATEGIZE</h3>
-      <hr width="60%"/>
-      <p>Research, plan, and define the right solution and technical direction.</p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="56" height="56" alt="Discover" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/01-DISCOVER-312E81?style=for-the-badge&labelColor=090B1A" alt="01 Discover"/>
+      <h4><b>01 — DISCOVER</b></h4>
+      <p align="center">Understand the business, objectives, challenges, and requirements.</p>
       <br/>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="250" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="58" height="58" alt="Engineer 3D" />
-      <h1>03</h1>
-      <img src="https://img.shields.io/badge/STEP_03-ENGINEER-0891B2?style=for-the-badge&labelColor=090B1A" alt="Step 03"/>
-      <h3>ENGINEER</h3>
-      <hr width="60%"/>
-      <p>Design, develop, test, and refine the solution.</p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="56" height="56" alt="Strategize" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/02-STRATEGIZE-4F46E5?style=for-the-badge&labelColor=090B1A" alt="02 Strategize"/>
+      <h4><b>02 — STRATEGIZE</b></h4>
+      <p align="center">Research, plan, and define the right solution and technical direction.</p>
       <br/>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="250" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="58" height="58" alt="Evolve 3D" />
-      <h1>04</h1>
-      <img src="https://img.shields.io/badge/STEP_04-EVOLVE-06B6D4?style=for-the-badge&labelColor=090B1A" alt="Step 04"/>
-      <h3>EVOLVE</h3>
-      <hr width="60%"/>
-      <p>Improve, optimize, and support continuous digital growth.</p>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" width="56" height="56" alt="Engineer" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/03-ENGINEER-0891B2?style=for-the-badge&labelColor=090B1A" alt="03 Engineer"/>
+      <h4><b>03 — ENGINEER</b></h4>
+      <p align="center">Design, develop, test, and refine the solution.</p>
+      <br/>
+    </td>
+    <td align="center" width="250" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="56" height="56" alt="Evolve" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/04-EVOLVE-06B6D4?style=for-the-badge&labelColor=090B1A" alt="04 Evolve"/>
+      <h4><b>04 — EVOLVE</b></h4>
+      <p align="center">Improve, optimize, and support continuous digital growth.</p>
       <br/>
     </td>
   </tr>
 </table>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,35:4F46E5,70:312E81,100:090B1A&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -398,23 +414,19 @@ Making better technology and business decisions through research and analysis.
 <!-- ===================================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,50:312E81,100:090B1A&height=70&section=header&text=05%20%E2%80%94%20OUR%20ENGINEERING%20MINDSET&fontSize=24&fontColor=06B6D4&animation=fadeIn&stroke=4F46E5&strokeWidth=1" width="100%" alt="05 Engineering Mindset"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,35:312E81,70:4F46E5,100:090B1A&height=65&section=header&text=05%20%E2%80%94%20OUR%20ENGINEERING%20MINDSET&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="05 — OUR ENGINEERING MINDSET"/>
 </div>
 
-## 05 — OUR ENGINEERING MINDSET
+<p align="center">
+  <b>We believe great software is not defined by appearance alone.</b><br/>
+  It is built on a combination of:
+</p>
 
-<div align="center">
-  <p>
-    <b>We believe great software is not defined by appearance alone.</b><br/>
-    It is built on a combination of:
-  </p>
-</div>
-
-<table width="100%">
+<table>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="333" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="56" height="56" alt="Architecture 3D" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="54" height="54" alt="Architecture" />
       <br/><br/>
       <img src="https://img.shields.io/badge/01-ARCHITECTURE-312E81?style=flat-square&labelColor=090B1A" alt="Architecture"/>
       <p align="center">
@@ -422,21 +434,21 @@ Making better technology and business decisions through research and analysis.
       </p>
       <br/>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="333" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="56" height="56" alt="Security 3D" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="54" height="54" alt="Security" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/02-SECURITY-4338CA?style=flat-square&labelColor=090B1A" alt="Security"/>
+      <img src="https://img.shields.io/badge/02-SECURITY-4F46E5?style=flat-square&labelColor=090B1A" alt="Security"/>
       <p align="center">
         <b>Security:</b> Responsible engineering and protection of digital assets.
       </p>
       <br/>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="334" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" width="56" height="56" alt="Performance 3D" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" width="54" height="54" alt="Performance" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/03-PERFORMANCE-4F46E5?style=flat-square&labelColor=090B1A" alt="Performance"/>
+      <img src="https://img.shields.io/badge/03-PERFORMANCE-0891B2?style=flat-square&labelColor=090B1A" alt="Performance"/>
       <p align="center">
         <b>Performance:</b> Efficient systems and optimized user experiences.
       </p>
@@ -444,31 +456,31 @@ Making better technology and business decisions through research and analysis.
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="333" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="56" height="56" alt="Scalability 3D" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="54" height="54" alt="Scalability" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/04-SCALABILITY-0369A1?style=flat-square&labelColor=090B1A" alt="Scalability"/>
+      <img src="https://img.shields.io/badge/04-SCALABILITY-312E81?style=flat-square&labelColor=090B1A" alt="Scalability"/>
       <p align="center">
         <b>Scalability:</b> Solutions designed with future growth in mind.
       </p>
       <br/>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="333" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="56" height="56" alt="Maintainability 3D" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="54" height="54" alt="Maintainability" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/05-MAINTAINABILITY-0891B2?style=flat-square&labelColor=090B1A" alt="Maintainability"/>
+      <img src="https://img.shields.io/badge/05-MAINTAINABILITY-4F46E5?style=flat-square&labelColor=090B1A" alt="Maintainability"/>
       <p align="center">
         <b>Maintainability:</b> Organized, understandable, and sustainable code.
       </p>
       <br/>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="334" align="center" valign="top">
       <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="56" height="56" alt="UX 3D" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="54" height="54" alt="User Experience" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/06-USER_EXPERIENCE-06B6D4?style=flat-square&labelColor=090B1A" alt="UX"/>
+      <img src="https://img.shields.io/badge/06-USER_EXPERIENCE-06B6D4?style=flat-square&labelColor=090B1A" alt="User Experience"/>
       <p align="center">
         <b>User Experience:</b> Interfaces that are intuitive, accessible, and purposeful.
       </p>
@@ -477,13 +489,12 @@ Making better technology and business decisions through research and analysis.
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3800&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Our+goal+is+to+build+solutions+that+work+well+today+and+remain+valuable+tomorrow." alt="Engineering Goal" />
-  <p><b>Our goal is to build solutions that work well today and remain valuable tomorrow.</b></p>
-</div>
+<p align="center">
+  <b>Our goal is to build solutions that work well today and remain valuable tomorrow.</b>
+</p>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090B1A,35:312E81,70:4F46E5,100:06B6D4&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -492,10 +503,8 @@ Making better technology and business decisions through research and analysis.
 <a id="technology"></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,50:0891B2,100:090B1A&height=70&section=header&text=06%20%E2%80%94%20TECHNOLOGY%20%26%20ENGINEERING&fontSize=24&fontColor=FFFFFF&animation=fadeIn&stroke=06B6D4&strokeWidth=1" width="100%" alt="06 Technology"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,35:4F46E5,70:0891B2,100:090B1A&height=65&section=header&text=06%20%E2%80%94%20TECHNOLOGY%20%26%20ENGINEERING&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="06 — TECHNOLOGY & ENGINEERING"/>
 </div>
-
-## 06 — TECHNOLOGY & ENGINEERING
 
 <p align="center">
   <b>We work with modern technologies and development tools to build digital solutions.</b>
@@ -503,22 +512,22 @@ Making better technology and business decisions through research and analysis.
 
 <div align="center">
 
-  <table width="100%">
+  <table>
     <tr>
-      <td align="center">
+      <td align="center" width="1000">
         <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="76" height="76" alt="Tech Robot 3D" />
-        <h3>OUR TECHNOLOGY ECOSYSTEM</h3>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="68" height="68" alt="Tech Ecosystem" />
+        <h3><b>OUR TECHNOLOGY ECOSYSTEM</b></h3>
         <br/>
         <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,js,html,css,git,github,vscode&perline=5&theme=dark" alt="Technology Stack"/>
         <br/><br/><br/>
-        <img src="https://img.shields.io/badge/Backend-Engineering-312E81?style=for-the-badge&logo=php&logoColor=white&labelColor=090B1A" alt="Backend"/>
+        <img src="https://img.shields.io/badge/Backend-Engineering-312E81?style=for-the-badge&logo=php&logoColor=white&labelColor=090B1A" alt="Backend Engineering"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Frontend-Development-4338CA?style=for-the-badge&logo=javascript&logoColor=white&labelColor=090B1A" alt="Frontend"/>
+        <img src="https://img.shields.io/badge/Frontend-Development-4F46E5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=090B1A" alt="Frontend Development"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Database-Management-0369A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=090B1A" alt="Database"/>
+        <img src="https://img.shields.io/badge/Database-Management-0891B2?style=for-the-badge&logo=mysql&logoColor=white&labelColor=090B1A" alt="Database Management"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Modern-Web-Solutions-0891B2?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=090B1A" alt="Modern Web"/>
+        <img src="https://img.shields.io/badge/Modern-Web-Solutions-06B6D4?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=090B1A" alt="Modern Web Solutions"/>
         <br/><br/>
       </td>
     </tr>
@@ -531,7 +540,7 @@ Making better technology and business decisions through research and analysis.
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,35:4F46E5,70:312E81,100:090B1A&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -539,55 +548,47 @@ Making better technology and business decisions through research and analysis.
 <!-- ===================================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,50:4F46E5,100:090B1A&height=70&section=header&text=07%20%E2%80%94%20OUR%20COMMITMENT&fontSize=25&fontColor=FFFFFF&animation=fadeIn&stroke=06B6D4&strokeWidth=1" width="100%" alt="07 Our Commitment"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,35:312E81,70:4F46E5,100:090B1A&height=65&section=header&text=07%20%E2%80%94%20OUR%20COMMITMENT&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="07 — OUR COMMITMENT"/>
 </div>
 
-## 07 — OUR COMMITMENT
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:090B1A,50:312E81,100:4F46E5&height=135&section=header&text=We%20Don't%20Just%20Build%20Digital%20Products.&fontSize=26&fontColor=06B6D4&desc=We%20Build%20Foundations%20For%20What's%20Next.&descSize=20&descAlignY=70&fontAlignY=38&animation=twinkling&stroke=06B6D4&strokeWidth=1" width="100%" alt="Commitment Cylinder"/>
-
-### We Don't Just Build Digital Products.
-
-### We Build Foundations For What's Next.
-
-</div>
-
-<table width="100%">
+<table>
   <tr>
-    <td width="58%" valign="middle">
-      <p>
+    <td width="1000" align="center">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="64" height="64" alt="Commitment" />
+      <h3><b>We Don't Just Build Digital Products.</b></h3>
+      <h3><b>We Build Foundations For What's Next.</b></h3>
+      <p align="center">
         At Astrova, every project is an opportunity to create something useful, reliable, and meaningful.
       </p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="500" valign="top">
       <p><b>We are committed to:</b></p>
       <ul>
-        <li>🔹 <b>Understanding before developing.</b></li>
-        <li>🔹 <b>Planning before implementing.</b></li>
-        <li>🔹 <b>Quality over unnecessary complexity.</b></li>
-        <li>🔹 <b>Building solutions around real requirements.</b></li>
-        <li>🔹 <b>Maintaining professional engineering standards.</b></li>
-        <li>🔹 <b>Creating long-term value through technology.</b></li>
+        <li><b>Understanding before developing.</b></li>
+        <li><b>Planning before implementing.</b></li>
+        <li><b>Quality over unnecessary complexity.</b></li>
       </ul>
     </td>
-    <td width="42%" valign="middle">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="75" height="75" alt="Crown 3D" />
-      </div>
-      <pre><code>&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;
-&#9474; ASTROVA QUALITY PROTOCOL            &#9474;
-&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;
-&#9474; [1] Understand  &#9472;&#9472;&#9658; Plan            &#9474;
-&#9474; [2] Standard    &#9472;&#9472;&#9658; Zero Complexity &#9474;
-&#9474; [3] Alignment   &#9472;&#9472;&#9658; Real Needs      &#9474;
-&#9474; [4] Outcome     &#9472;&#9472;&#9658; Long-Term Value &#9474;
-&#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;</code></pre>
+    <td width="500" valign="top">
+      <p><b>Our Engineering Standards:</b></p>
+      <ul>
+        <li><b>Building solutions around real requirements.</b></li>
+        <li><b>Maintaining professional engineering standards.</b></li>
+        <li><b>Creating long-term value through technology.</b></li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090B1A,35:312E81,70:4F46E5,100:06B6D4&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -596,53 +597,52 @@ Making better technology and business decisions through research and analysis.
 <a id="contact"></a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,50:06B6D4,100:090B1A&height=70&section=header&text=08%20%E2%80%94%20LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=24&fontColor=FFFFFF&animation=fadeIn&stroke=4F46E5&strokeWidth=1" width="100%" alt="08 Contact"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090B1A,35:4F46E5,70:06B6D4,100:090B1A&height=65&section=header&text=08%20%E2%80%94%20LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="08 — LET'S BUILD SOMETHING GREAT"/>
 </div>
 
-## 08 — LET'S BUILD SOMETHING GREAT
+<p align="center">
+  <b>Have an idea, a business challenge, or a project that needs the right technology partner?</b><br/>
+  We would love to hear about it.
+</p>
 
-<div align="center">
-
-  <p>
-    <b>Have an idea, a business challenge, or a project that needs the right technology partner?</b><br/>
-    We would love to hear about it.
-  </p>
-
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="84" height="84" alt="Handshake 3D" />
-        <h2>Let's Turn Your Vision Into Reality.</h2>
-        <br/>
+<table>
+  <tr>
+    <td align="center" width="1000">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="76" height="76" alt="Handshake" />
+      <h3><b>Let's Turn Your Vision Into Reality.</b></h3>
+      <br/>
+      <p align="center">
         <a href="https://astrova.online/">
-          <img src="https://img.shields.io/badge/🌐_VISIT_OUR_WEBSITE-astrova.online-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090B1A" height="46" alt="Visit Website"/>
+          <img src="https://img.shields.io/badge/VISIT_OUR_WEBSITE-astrova.online-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090B1A" height="44" alt="Visit Website"/>
         </a>
         &nbsp;&nbsp;&nbsp;
         <a href="mailto:support@astrova.online">
-          <img src="https://img.shields.io/badge/✉️_EMAIL_US-support@astrova.online-0891B2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090B1A" height="46" alt="Email Us"/>
+          <img src="https://img.shields.io/badge/EMAIL_US-support@astrova.online-0891B2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090B1A" height="44" alt="Email Us"/>
         </a>
-        <br/><br/>
-        <hr width="65%"/>
+      </p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WEBSITE-https://astrova.online/-312E81?style=flat-square&labelColor=090B1A" alt="Website"/>
+        &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/EMAIL-support@astrova.online-4F46E5?style=flat-square&labelColor=090B1A" alt="Email"/>
+        &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/LOCATIONS-Egypt_—_Tanta_·_Kafr_El_Sheikh_·_Cairo-0891B2?style=flat-square&labelColor=090B1A" alt="Locations"/>
+      </p>
+      <p align="center">
+        <b>Website:</b> <a href="https://astrova.online/">https://astrova.online/</a>
+        &nbsp; | &nbsp;
+        <b>Email:</b> <a href="mailto:support@astrova.online">support@astrova.online</a>
         <br/>
-        <p>
-          🌐 <b>Website:</b> <a href="https://astrova.online/">https://astrova.online/</a>
-        </p>
-        <p>
-          ✉️ <b>Email:</b> <a href="mailto:support@astrova.online">support@astrova.online</a>
-        </p>
-        <p>
-          📍 <b>Locations:</b> Egypt — Tanta · Kafr El Sheikh · Cairo
-        </p>
-        <br/>
-      </td>
-    </tr>
-  </table>
-
-</div>
+        <b>Locations:</b> Egypt — Tanta · Kafr El Sheikh · Cairo
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,35:4F46E5,70:312E81,100:090B1A&height=3" width="100%" alt="Line"/>
 <br/>
 
 <!-- ===================================================================== -->
@@ -651,28 +651,30 @@ Making better technology and business decisions through research and analysis.
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="64" height="64" alt="Galaxy 3D" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="58" height="58" alt="Astrova Galaxy" />
 
-  <h3>ASTROVA</h3>
+  <h3><b>ASTROVA</b></h3>
 
-  **Engineering The Future Through Technology.**
-
-  <br/>
+  <p><b>Engineering The Future Through Technology.</b></p>
 
   <sub>Software Development • Digital Solutions • Innovation</sub>
 
   <br/><br/>
 
-  <a href="https://astrova.online/">Official Website</a>
-  &nbsp; • &nbsp;
-  <a href="#top">Back To Top ↑</a>
+  <a href="https://astrova.online/">
+    <img src="https://img.shields.io/badge/Official_Website-astrova.online-4F46E5?style=flat-square&labelColor=090B1A" alt="Official Website"/>
+  </a>
+  &nbsp;
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_To_Top-↑-06B6D4?style=flat-square&labelColor=090B1A" alt="Back To Top"/>
+  </a>
 
   <br/><br/>
 
   <sub>© Astrova. All Rights Reserved.</sub>
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:090B1A&height=150&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:090B1A&height=140&section=footer"
     width="100%"
     alt="Astrova Footer"
   />
